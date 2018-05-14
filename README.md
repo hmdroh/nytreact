@@ -42,4 +42,9 @@ yarn build
 
 If all previous steps were followed correctly, your application should be deployed to Heroku!
 
+## Deployed on heroku:
+https://nytreactproj.herokuapp.com/
+
+
+
 By Sayed Hamed Rohani
